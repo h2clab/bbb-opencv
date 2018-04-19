@@ -1,4 +1,4 @@
-FROM registry.cn-beijing.aliyuncs.com/h2c-arm/debian-python
+FROM h2clab/bbb-stretch-python
 
 RUN [ "cross-build-start" ]
 
